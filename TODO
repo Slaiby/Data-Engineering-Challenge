@@ -1,0 +1,33 @@
+Challenge:
+
+Groover is helping artists to reach music industry professionals and establish a connection with them that will help them build their career. In order to match the fittest industry professionals to a given artistic project, one must make sure that we store artist data properly and have enough information to characterize their project.
+
+For this challenge you will need to gain more knowledge about how popular are our users on Spotify. To do so, you are given a dataset to clean that contain the following 4 tables:
+
+Artist table: user ID, artist name
+Spotify Artist table: user ID, spotify ID, User ID
+Artist Tag table: user ID, tag ID
+Genre Tag table: ID, band ID, tag name
+All the data is available here
+
+Your Goal
+
+Through this challenge, you will have to gain more insights from Groover's artists popularity. This information is given by Spotify's API, which contains a "popularity" metric per artist. Once you have gathered Spotify data, you need to make sure that the information you gathered corresponds to what is stored in the database.
+
+To sum up, your tasks are the following:
+
+Retrieve popularity score of each artist
+Make sure artist name on our platform and the ones given on Spotify are matching
+Additional question:
+
+Write a SQL query that lists all artists given above with: their spotify_id, their user_id, their genres, the total number of genres they’re assigned to, and the total number of artists assigned to the genre.
+
+Constrains
+
+Allowed languages are Python & SQL. 
+
+You have 7 days to complete the challenge, starting once you receive this document.
+
+
+
+Thank you for your time and good luck!

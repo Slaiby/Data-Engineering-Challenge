@@ -1,3 +1,4 @@
+<img src="https://lh6.googleusercontent.com/YnesmZ6jQv1uqZMDfykSnsOLGbdF8xdYrgf9hyNQ7b_k2I40lYT-KhpV1J79z6eWSo54rXs9fuz7qs_Z5xyscoqzKb5vOaPizFeuko3107z6HuZpr8LBwicffPYvz6z8sRV7ykjRqUytqRj0VOgKqGUlHJRKfu6BDxgZuve6Lmetvkgh2d4GXEIAMg" alt="Banner Image" style="width: 100%;">
 # Data Engineering Challenge - Groover Artist Popularity 🌟
 
 Welcome to the Data Engineering Challenge for Groover, where our goal is to help artists reach music industry professionals and establish meaningful connections to build their careers. This challenge focuses on evaluating and improving how artist data is stored and managed, particularly in relation to their popularity on Spotify.
